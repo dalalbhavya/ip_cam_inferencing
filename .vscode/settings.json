@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dalal/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "",
+        "opt/ros/noetic/lib/python3/dist-packages",
+        "opt/ros/foxy/share",
+        "/home/dalal/ros2_ws/src/"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dalal/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "",
+        "opt/ros/noetic/lib/python3/dist-packages",
+        "opt/ros/foxy/share",
+        "/home/dalal/ros2_ws/src/"
+    ]
+}
